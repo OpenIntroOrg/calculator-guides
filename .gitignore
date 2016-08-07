@@ -1,0 +1,10 @@
+*.aux
+*.bib
+*.idx
+*.log
+*.out
+*.xml
+*.synctex.gz
+*.toc
+*.DS_Store
+.gitignore~
